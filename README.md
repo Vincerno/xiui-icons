@@ -3,7 +3,7 @@
 This package provides high-quality icons used throughout XIUI elements.  
 It was created as a combination of passion and inspiration.
 
-I originally started working on this icon project three years ago for the old addon called **XIVhotbar2**, but it was left unfinished. Recently, I learned that the author is now expanding the addon by adding a **XIVhotbar2-inspired hotbar system**—one that is much better and cleaner. This inspired me to resume and complete this icon package.
+I originally started working on this icon project three years ago for the old addon called **XIVhotbar2**, but it was left unfinished. Recently, I learned that the XIUI team, particularly Shuu, has been expanding the addon with a XIVhotbar2-inspired hotbar system that is much cleaner and better designed. This motivated me to return to the project and complete the icon package.
 
 Today, I am finally releasing the first part of this project.
 
