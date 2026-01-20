@@ -11,7 +11,7 @@ Today, I am finally releasing the first part of this project.
 
 ## To Do List
 
-This package currently contains mostly **Summoner (SMN)** icons. I have plans to cover a few additional jobs and categories, but for others, I do not yet have concrete plans—so no promises there.
+This package currently contains mostly **SMN** icons. I have plans to cover a few additional jobs and categories, but for others, I do not yet have concrete plans—so no promises there.
 
 This list will be updated as I make progress. Priority is listed in the following order:
 **currently in progress → soon → indefinite**
@@ -47,13 +47,15 @@ This list will be updated as I make progress. Priority is listed in the followin
 
 Please read the [XIUI addon's installation guide](https://github.com/tirem/XIUI).
 
-If the addon does not work, please double-check the installation steps before opening a new issue or contacting the author or team.
+If the addon does not work, please double-check the installation steps before opening a new issue or contacting the author.
 
 ## Other Jobs and Miscellaneous
 
 As mentioned above, I cannot make promises for content I do not currently plan to work on.
 
 Some of you may already know this, but **XIUI already includes official FFXIV icons** for other jobs. Many of these share abilities and weaponskills with FFXI, which is why I designed these icons to match the **frame and reflective style** of the official FFXIV icons—allowing them to blend seamlessly with existing assets.
+
+To make customization easier, I’ve included the latest **Photoshop template** in this package. This serves as a quick starting point for anyone who wants to create and insert their own images using the icon template. If you’d prefer the layers to be exported as individual images instead of a single file, feel free to let me know.
 
 For anything else you may want to know, I plan to open new accounts on a few platforms to share my work.  
 Stay tuned!
