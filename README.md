@@ -7,7 +7,7 @@ I originally started working on this icon project three years ago for the old ad
 
 Today, I am finally releasing the first part of this project.
 
-*[image banner in progress]*
+<img width="802" height="183" alt="xiv-icons_banner" src="https://github.com/user-attachments/assets/a447d8f8-861d-4523-abab-15d8d9e381a8" />
 
 ## To Do List
 
