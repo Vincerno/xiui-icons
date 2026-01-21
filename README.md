@@ -18,8 +18,8 @@ This list will be updated as I make progress. Priority is listed in the followin
 
 ### Jobs
 
-- **Summoner** *(RELEASED — will be updated)*
-  - Diabolos *(currently in progress)*
+- **Summoner** *(RELEASED — not 100% completed)*
+  - ~~Diabolos~~
   - Merit abilities *(soon)*
   - Avatar abilities beyond level 75 *(indefinite)*
 
