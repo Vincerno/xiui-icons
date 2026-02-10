@@ -5,8 +5,6 @@ It was created as a combination of passion and inspiration.
 
 I originally started working on this icon project three years ago for the old addon called **XIVhotbar2**, but it was left unfinished. Recently, I learned that the XIUI team, particularly Shuu, has been expanding the addon with a XIVhotbar2-inspired hotbar system that is much cleaner and better designed. This motivated me to return to the project and complete the icon package.
 
-Today, I am finally releasing the first part of this project. **UPDATE: added the Elemental Magic pack!**
-
 <img width="802" height="183" alt="xiv-icons_banner" src="https://github.com/user-attachments/assets/a447d8f8-861d-4523-abab-15d8d9e381a8" />
 
 ## To Do List
@@ -23,17 +21,17 @@ This list will be updated as I make progress. Priority is listed in the followin
   - Merit abilities *(soon)*
   - Siren & Avatar abilities beyond level 75 *(indefinite)*
 
-- **Black Mage** *(NOT RELEASED)*
-  - Abilities *(soon)*
+- **Black Mage** *(RELEASED — up to level 75)*
+  - ~~Abilities~~
 
 - **White Mage** *(NOT RELEASED)*
   - Abilities *(indefinite)*
 
-### Magic Skills *(NOT RELEASED)*
+### Magic Skills *(RELEASED - up to level 75)*
 
 - ~~Elemental~~
-- Dark *(currently in progress)*
-- Enfeebling *(soon)*
+- ~~Dark~~
+- ~~Enfeebling~~
 - Enhancing *(soon)*
 - Healing *(indefinite)*
 - Divine *(indefinite)*
